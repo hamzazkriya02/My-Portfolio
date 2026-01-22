@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Hamza Z. Kriya**
+# 👋 Hi, I’m **Hamza Zakriya**
 
 Welcome to my **Portfolio Website**!
 This project showcases my personal background, educational journey, skills, achievements, and projects.
